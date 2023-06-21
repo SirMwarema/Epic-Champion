@@ -1,2 +1,2 @@
-# Epic-Champion
-Digital Television
+# GameQuest
+Gaming Platform
